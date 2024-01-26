@@ -39,7 +39,7 @@ docker-compose up -d
 > 掲示板アプリへのアクセス
 
 ```
-http://localhost:8000
+http://localhost:8000/post
 ```
 
 > phpMyAdminへのアクセス
